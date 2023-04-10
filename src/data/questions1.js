@@ -1,58 +1,14 @@
-// export const questions = [
-//     `Give us a passionate example of your dirty talk.`,
-//     `Would you ever knowingly enter into an open relationship?
-//      What rules are required to keep the peace?`,
-//     `Where’s the strangest place
-//      you’ve had sex?`,
-//     `What’s the sex skill you’re
-//      most proud of?`,
-//     `Describe your sex life with
-//      a movie title, and tell us
-//      your reasoning.`,
-//     `Have you ever done butt
-//      stuff? If not, would you
-//      like to?`,
-//     `Have you ever had a
-//      threesome? Would you?`,
-//     `Tell us about an awkward
-//      or inappropriate sex dream
-//      you’ve had. Was anyone
-//      here involved?`,
-//     `When was the last time you
-//      were tested for a sexually
-//      transmitted infection?
-//      What were the results?`,
-//     `Have I ever popped into
-//      your head while you were
-//      masturbating? Will it
-//      happen now that we’ve
-//      asked the question?`,
-//     `Who do you think has had
-//      more sexual partners, you
-//      or me?`,
-//     `What’s the messiest thing
-//      you’ve ever done sexually?`,
-//      `What was your best
-//      orgasm? Was it with
-//      yourself, or someone else?`,
-//      `If we were stuck on a
-//      desert island, would
-//      we become lovers?`,
-//      `Describe your first time
-//      having sex. Include every
-//      cringey detail.`,
-//      ``,
-//      ``,
-//      ``,
-//      ``,
-//      ``,
-//      ``,
-//      ``,
-//      ``,
-//      ``,
-// ];
-
 export const questions = [
+    "Give us a passionate example of your dirty talk.",
+    "Would you ever knowingly enter into an open relationship? What rules are required to keep the peace?",
+    "Have you ever had a threesome? Would you?",
+    "Describe your sex life with a movie title, and tell us your reasoning.",
+    "Tell us about an awkward or inappropriate sex dream you’ve had. Was anyone here involved?",
+    "Who do you think has had more sexual partners, you or me?",
+    "What’s the messiest thing you’ve ever done sexually?",
+    "What was your best orgasm? Was it with yourself, or someone else?",
+    "If we were stuck on a desert island, would we become lovers?",
+    "Describe your first time having sex. Include every cringey detail.",
     "Where’s the strangest place you’ve had sex?",
     "What’s the sex skill you’re most proud of?",
     "Have you ever done butt stuff? If not, would you like to?",
@@ -76,4 +32,52 @@ export const questions = [
     "Have you ever feared for your life or safety while drinking or on drugs? Take us to the scene.",
     "How often are you intoxicated when you have sex? How often are you sober? What’s the difference?",
     "Do you find me physically attractive?",
+    "What is your favorite sexual position and why?",
+    "When was the last time you masturbated?",
+    "What’s a sexual thing you’ve never been able to try, but wish you could?",
+    "What’s your opinion of open relationships?",
+    "What’s your experience with monogamy?",
+    "Have you ever served food or other edibles in an erotic context? How did it go?",
+    "What would it take for us to have sex?",
+    "What’s a sexual thing you gave a good try, but just couldn’t get into?",
+    "Name the person here you’d most like to hook up with (but haven’t).",
+    "What would it take for you to sleep with someone you’re not physically attracted to?",
+    "If I had a hot mom/dad, would you let them seduce you?",
+    "What’s the last inanimate object you put inside yourself or another person?",
+    "Do you have nude images of anyone that I know on your phone right now?",
+    "How open are you about your most intimate fantasies with your partner(s)?",
+    "If your sex life was a pie chart, what portion of it would be: satisfactory, unsatisfactory, and mind-blowing?",
+    "Describe your sex life with a song title.",
+    "Are you more sexperimental, or less sexperimental, than the average person?",
+    "How much money would a voyeuristic billionaire have to pay us for us to have sex in his velvet blimp?",
+    "What’s your most complimented anatomical feature (as described by your lovers?)",
+    "Who was the last person (besides your partner or your kids) whose junk you’ve seen?",
+    "True or false: great sex requires a connection beyond physical attraction. Explain your thinking.",
+    "Tell us about the first time you ever saw porn.",
+    "True or false: great sex requires lube. State your case with first-hand evidence.",
+    "Would you be (or have you been) a “guest star” in another couple’s bedroom?",
+    "Describe the perfect foreplay: what activities, and for how long?",
+    "The various sex juices. Sometimes they get on clothes. Tell us about when it happened to you.",
+    "Have you ever sent nudes? How do you compose, frame, and light these images?",
+    "Have you ever been injured while having sex?",
+    "Have you ever paid for sex? Even if you haven’t, is there anything inherently problematic about it?",
+    "What do you think is your most unique sexual interest?",
+    "Who was the last person (besides your partner or your doctor) who’s seen your junk?",
+    "Have you ever cried after—or during—sex?",
+    "Do you have an age ceiling for a one-night stand?",
+    "Have you ever had to contact past partners for... public health reasons?",
+    "If we were in a porn together, what category would it be filed under?",
+    "What’s the weirdest porn that you’ve ever clicked on?",
+    "What’s the maximum number of people you’d be interested in having sex with at once?",
+    "Looking for a weird but true story about an inappropriate boner.",
+    "Have you ever found yourself wearing somebody else’s underwear?",
+    "Who’s had more sex, you or your parents?",
+    "Quick! Name your favorite porn star. And tell us about all the wonderful qualities that make them special.",
+    "What’s the most surprising discovery you’ve made about your own body?",
+    "When was the last time you had unprotected sex? Did it ever cross your mind?",
+    "If a studio were to make a porn specifically for you, tailored to your specific tastes, what would it be like?",
+    "How did your parents talk to you about sex?",
+    "Inadvertent nudity. Tell us about when it happened to you.",
+    "How would your partner (or your latest ex) describe your sex life with a movie title?",
+    "What will be the sexy nickname they give you when you live at the old folks’ home",
 ];
