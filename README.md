@@ -1,3 +1,3 @@
 ## Truth 🤔 or Drink 🍸?
 
-Question game for myself and friends to play
+Question game for myself and friends to play!
